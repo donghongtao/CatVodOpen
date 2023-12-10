@@ -1,13 +1,6 @@
 {
   "video": {
     "sites": [
-    {
-                "key": "gzh",
-                "name": "🍭丨公众号",
-                 "type": 3,
-                "indexs": 1,			
-                "api": "douban_open.js"
-            },
    {
                 "key": "douban",
                 "name": "🍭丨豆瓣",
